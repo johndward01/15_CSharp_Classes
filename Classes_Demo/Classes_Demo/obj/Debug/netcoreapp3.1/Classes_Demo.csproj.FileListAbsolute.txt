@@ -1,0 +1,13 @@
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.csprojAssemblyReference.cache
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.AssemblyInfo.cs
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\bin\Debug\netcoreapp3.1\Classes_Demo.exe
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\bin\Debug\netcoreapp3.1\Classes_Demo.deps.json
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\bin\Debug\netcoreapp3.1\Classes_Demo.runtimeconfig.json
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\bin\Debug\netcoreapp3.1\Classes_Demo.runtimeconfig.dev.json
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\bin\Debug\netcoreapp3.1\Classes_Demo.dll
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\bin\Debug\netcoreapp3.1\Classes_Demo.pdb
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.dll
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.pdb
+C:\Users\johnd\source\repos\Classes_Demo\Classes_Demo\obj\Debug\netcoreapp3.1\Classes_Demo.genruntimeconfig.cache
