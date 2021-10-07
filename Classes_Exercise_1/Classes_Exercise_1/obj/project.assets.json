@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
+      "projectUniqueName": "C:\\Users\\johnd\\Desktop\\T_Repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
       "projectName": "Classes_Exercise_1",
-      "projectPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
+      "projectPath": "C:\\Users\\johnd\\Desktop\\T_Repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
       "packagesPath": "C:\\Users\\johnd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\obj\\",
+      "outputPath": "C:\\Users\\johnd\\Desktop\\T_Repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -37,6 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -48,6 +49,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

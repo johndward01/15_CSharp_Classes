@@ -8,6 +8,7 @@ namespace ClassesDemoDay2ConsoleUI
         {
             //Instanciating a customer = Creating a variable of the Customer data type
             Customer customer1 = new Customer();
+            Console.WriteLine(typeof(Customer));
 
             //Getting user input
             Console.WriteLine("Please give me your first name");

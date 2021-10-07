@@ -15,6 +15,7 @@ namespace CarLotSimulator
 
             lot.CarList.Add(mustang);
             Console.WriteLine(Carlot.numberOfCars);
+            Console.WriteLine();
 
             Car Cherokee = new Car();
             Cherokee.Year = 1974;
@@ -25,6 +26,7 @@ namespace CarLotSimulator
 
             lot.CarList.Add(Cherokee);
             Console.WriteLine(Carlot.numberOfCars);
+            Console.WriteLine();
 
             Car Corolla = new Car()
             {
@@ -37,10 +39,14 @@ namespace CarLotSimulator
 
             lot.CarList.Add(Corolla);
             Console.WriteLine(Carlot.numberOfCars);
+            Console.WriteLine();
 
             foreach ( var car in lot.CarList)
             {
-                Console.WriteLine(car);
+                Console.WriteLine($"Year: {car.Year}\n" +
+                                  $"Make: {car.Make}\n" +
+                                  $"Model: {car.Model}");
+                Console.WriteLine();
             }
 
             //TODO
