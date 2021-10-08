@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "t/V64kogJeaRWLn/9fzRk8LD7mpobudA9T3Q4Q+ruXX7nciD6vkZxJAj6XBBcgu9Iw6fArT9RV1gJoYOtLk+kQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\johnd\\Desktop\\Repos\\15_CSharp_Classes\\Classes_Demo\\Classes_Demo\\Classes_Demo.csproj",
+=======
+  "dgSpecHash": "GiUCt2yzPxdcpwsjMUA38cfchd2MtY9H70w4BkIw/hb0pvKdg+UyIoPeE8BUGVVeWWN/a76pOU1ck5J7+JsE9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnd\\Desktop\\Repo\\15_C#_Classes\\Classes_Demo\\Classes_Demo\\Classes_Demo.csproj",
+>>>>>>> 5f79323563c0af8885c4c13e3dc49eda5d2c442c
   "expectedPackageFiles": [],
   "logs": []
 }

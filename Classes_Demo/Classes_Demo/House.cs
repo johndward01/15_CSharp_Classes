@@ -30,7 +30,10 @@ namespace Classes_Demo
         public int Bathrooms { get; set; }
         public int CarGarageSize { get; set; }
         public int FloorLevels { get; set; }
+<<<<<<< HEAD
         public List<int> MyList { get; set; }
+=======
+>>>>>>> 5f79323563c0af8885c4c13e3dc49eda5d2c442c
 
         // Methods
         public string Doorbell()
