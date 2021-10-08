@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CarLotSimulator
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -18,13 +18,15 @@ namespace CarLotSimulator
 
             var carLot = new CarLot();
 
-            var mazda = new Car();
+            Car mazda = new Car();
             mazda.Make = "Mazda";
             mazda.Model = "CX-5";
             mazda.Year = 2016;
             mazda.EngineNoise = "Zoom zoom zoom";
             mazda.HonkNoise = "beeeep";
             mazda.IsDrivable = true;
+
+            carLot.ParkingLot.Add(mazda);
 
             var ford = new Car()
             {
@@ -36,8 +38,11 @@ namespace CarLotSimulator
                 IsDrivable = true
             };
 
+            carLot.ParkingLot.Add(ford);
+
             Car impala = new Car(2001, "Impala", "Vrooom", "Loud beep", true, "Chevy");
 
+            carLot.ParkingLot.Add(impala);
 
             //*************BONUS X 2*************//
 
@@ -46,7 +51,7 @@ namespace CarLotSimulator
             //Instanciate the a Carlot at the beginning of the program and as you create a car add the car to the list.
             //At the end iterate through the list printing each of car's Year, Make, and Model to the console
 
-            carLot.ParkingLot = new List<Car>() { mazda, ford, impala };
+
 
             foreach (var car in carLot.ParkingLot)
             {

@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Classes_Demo
 {
-    class Square
+    public class Square
     {
+        public int NumberOfSides { get; set; }
+        public double Area { get; set; }
     }
 }
