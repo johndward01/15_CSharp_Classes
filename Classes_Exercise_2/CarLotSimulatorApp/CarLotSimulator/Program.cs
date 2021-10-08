@@ -14,7 +14,7 @@ namespace CarLotSimulator
             mustang.MakeHonkNoise();
 
             lot.CarList.Add(mustang);
-            Console.WriteLine(Carlot.numberOfCars);
+            Console.WriteLine($"Number of cars: {Carlot.numberOfCars}");
 
             Car Cherokee = new Car();
             Cherokee.Year = 1974;

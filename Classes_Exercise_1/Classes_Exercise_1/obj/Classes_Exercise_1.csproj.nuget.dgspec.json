@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj": {}
+    "C:\\Users\\johnd\\Desktop\\Repos\\15_CSharp_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj": {
+    "C:\\Users\\johnd\\Desktop\\Repos\\15_CSharp_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
+        "projectUniqueName": "C:\\Users\\johnd\\Desktop\\Repos\\15_CSharp_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
         "projectName": "Classes_Exercise_1",
-        "projectPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
+        "projectPath": "C:\\Users\\johnd\\Desktop\\Repos\\15_CSharp_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\Classes_Exercise_1.csproj",
         "packagesPath": "C:\\Users\\johnd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnd\\Desktop\\TA_repo\\15_C#_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\obj\\",
+        "outputPath": "C:\\Users\\johnd\\Desktop\\Repos\\15_CSharp_Classes\\Classes_Exercise_1\\Classes_Exercise_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\johnd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +32,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +44,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
